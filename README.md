@@ -18,7 +18,7 @@
 4.vue-router  
 
 
-1.https://github.com/lyh2606179909/manger-system
+1.本项目出自https://github.com/lyh2606179909/manger-system
 2.数据库脚本放在server项目的resources目录下，在MySQL中执行数据库脚本  
 
 3.数据库配置在server项目的resources目录下的application.properties文件中  
